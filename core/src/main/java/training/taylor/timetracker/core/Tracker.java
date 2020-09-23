@@ -27,10 +27,14 @@ public class Tracker {
     }
 
     public TimeEntry get(int index) {
-        try {
-        } catch (Exception e) {
-        }
-
+#        try {
+#        } catch (Exception e) {
+#        }
+        try 
+         catch (Exception e)
+        
+        
+        
         boolean valid = false;
 
         if (valid = true) {
